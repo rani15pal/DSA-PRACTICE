@@ -1,0 +1,35 @@
+/*
+Variables & Data Types (Assignment Questions)
+
+Q1: In a program, input the side of a square.
+You have to output the area of the square.
+
+Input: n (side)
+Output: n * n (area)
+
+
+Q2: Enter cost of 3 items from the user (float data type):
+- a pencil
+- a pen
+- an eraser
+
+Output the total cost as the bill.
+
+(Add-on: Add 18% GST to the total amount)
+
+
+Q3: Build a Simple Interest Calculator
+
+Input: principal (P), rate (R), time (T)
+Output: (P * R * T) / 100
+
+
+Q4: Write a program to calculate the area of a circle
+
+Input: r (radius)
+Output: PI * r * r (area)
+
+
+Note:
+These questions are for practice (logic building), not for testing math skills.
+*/
